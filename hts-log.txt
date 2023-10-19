@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2023 15:19:19 at http://tk-themes.net/html-umbra/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://tk-themes.net/html-umbra/ -O1 "D:\shoppingC" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/fonts/glyphicons-halflings-regular.eot (from tk-themes.net/html-umbra/css/bootstrap.min.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/fonts/glyphicons-halflings-regular.eot? (from tk-themes.net/html-umbra/css/bootstrap.min.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/fonts/glyphicons-halflings-regular.woff2 (from tk-themes.net/html-umbra/css/bootstrap.min.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/fonts/glyphicons-halflings-regular.woff (from tk-themes.net/html-umbra/css/bootstrap.min.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/fonts/glyphicons-halflings-regular.ttf (from tk-themes.net/html-umbra/css/bootstrap.min.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/fonts/glyphicons-halflings-regular.svg (from tk-themes.net/html-umbra/css/bootstrap.min.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/css/openhand.cur (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/css/closedhand.cur (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/assets/gridtile.png (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/assets/gridtile_white.png (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/assets/gridtile_3x3.png (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/assets/gridtile_3x3_white.png (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/assets/coloredbg.png (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/assets/loader.gif (from tk-themes.net/html-umbra/css/settings.css)
+15:36:31	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/css/AjaxLoader.gif (from tk-themes.net/html-umbra/css/owl.theme.css)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13129933_280118965656340_2033838901_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/e35/13150898_486521964871587_225578953_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/e35/13129121_1256124827748565_158663066_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13126643_258134164540180_1041166948_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13102328_1731108780505827_1843871631_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13257049_886478884831013_249118535_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13116729_700539396751527_1765922109_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:31	Error: 	"Forbidden" (403) at link https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13269326_235439696833039_949850806_n.jpg (from tk-themes.net/html-umbra/blog.html)
+15:36:45	Error: 	"Not Found" (404) at link tk-themes.net/html-umbra/ajax/images/product/product_1.jpg (from tk-themes.net/html-umbra/ajax/product-quickview.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 26 seconds : 369 links scanned, 344 files written (27414852 bytes overall) [25598258 bytes received at 24472 bytes/sec], 2542893 bytes transferred using HTTP compression in 66 files, ratio 23%, 4.5 requests per connection
+(24 errors, 0 warnings, 0 messages)

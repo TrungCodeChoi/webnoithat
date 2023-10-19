@@ -1,0 +1,26 @@
+<div class="quick-view-wrap">
+    <div class="quick-content commerce">
+        <button title="Close (Esc)" class="quickview-close mfp-close"></button>
+        <div class="quick-left">
+            <img src="images/product/product_1.html" alt="" />
+        </div>
+        <div class="quick-right">
+            <h1 class="product_title entry-title">Royal RepubliQ  Backpack</h1>
+            <p class="price"><span class="amount">&#36;270.00</span></p>
+            <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan nibh nec justo egestas lacinia. Morbi sem lacus, vestibulum eu volutpat sit amet, dictum nec tellus. Phasellus iaculis cursus lobortis. Duis nec turpis hendrerit nulla interdum consequat</p>
+            <p class="stock in-stock">In stock</p>
+            <form class="cart">
+                <div class="quantity">
+                    <button class="qty-decrease" onclick="var qty_el = document.getElementById('qty'); var qty = qty_el.value; if( !isNaN( qty ) && qty > 1 ) qty_el.value--;return false;" type="button">-</button>
+                    <input id="qty" type="text" step="1" min="1" max="" name="quantity" value="1" class="input-text qty text" size="4" />
+                    <button class="qty-increase" onclick="var qty_el = document.getElementById('qty'); var qty = qty_el.value; if( !isNaN( qty )) qty_el.value++;return false;" type="button">+</button>
+                </div>
+                <button type="submit" class="button">Add to cart</button>
+            </form>
+            <div class="product_meta">
+                <span class="posted_in">Category: <a href="#">Accessories</a></span>
+                <span class="tagged_as">Tags: <a href="#">accessories</a>, <a href="#">backpacks</a></span>
+            </div>
+        </div>
+    </div>
+</div>

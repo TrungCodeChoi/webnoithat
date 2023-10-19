@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Modern Red Chair",
+      "title": "Decor",
+      "img": "product_1",
+      "imgdetail": "product_detail_1",
+      "sale": 220,
+      "price": 270
+    },
+    {
+      "id": 2,
+      "name": "The Signature Chair",
+      "title": "Armchair",
+      "img": "product_2",
+      "sale": 120,
+      "price": 220
+    },
+    {
+      "id": 3,
+      "name": "Egg Chair",
+      "title": "Decor",
+      "img": "product_3",
+      "sale": 239,
+      "price": 320
+    },
+    {
+      "id": 4,
+      "name": "Hansen Ro Chair",
+      "title": "Armchair",
+      "img": "product_4",
+      "sale": 220,
+      "price": 280
+    },
+    {
+      "id": 5,
+      "name": "Flamingo Chair",
+      "title": "Decor",
+      "img": "product_5",
+      "sale": 120,
+      "price": 220
+    },
+    {
+      "id": 6,
+      "name": "Cuba Chair",
+      "title": "Chairs",
+      "img": "product_6",
+      "sale": 220,
+      "price": 420
+    },
+    {
+      "id": 7,
+      "name": "Blue Wing chair",
+      "title": "Armchair",
+      "img": "product_7",
+      "sale": 280,
+      "price": 380
+    },
+    {
+      "id": 8,
+      "name": "Corona Classic Chair",
+      "title": "Chairs",
+      "img": "product_8",
+      "sale": 200,
+      "price": 290
+    },
+    {
+      "id": 9,
+      "name": "Vitra Organic Chair",
+      "title": "Armchair",
+      "img": "product_9",
+      "sale": 360,
+      "price": 420
+    },
+    {
+      "name": "aaabbtỷt",
+      "title": "Decor",
+      "img": "product_5",
+      "sale": "1111",
+      "price": "444",
+      "id": 11
+    },
+    {
+      "name": "aaabbtỷt",
+      "title": "Decor",
+      "img": "product_6",
+      "sale": "1111",
+      "price": "444",
+      "id": 12
+    },
+    {
+      "name": "aaabbtỷt",
+      "title": "Decor",
+      "img": "product_6",
+      "sale": "1111",
+      "price": "444",
+      "id": 13
+    },
+    {
+      "name": "aaabbtỷt",
+      "title": "Decor",
+      "img": "product_6",
+      "sale": "1111",
+      "price": "444",
+      "id": 14
+    }
+  ]
+}
